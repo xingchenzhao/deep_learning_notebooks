@@ -1,1 +1,1 @@
-My jupyter notebooks for the course of "Dive into Deep Learning".
+Deep Learning Jupyter Notebooks by using MxNet

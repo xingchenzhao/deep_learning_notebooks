@@ -1,1 +1,1 @@
-Deep Learning Jupyter Notebooks by using MxNet
+Deep Learning Jupyter Notebooks by using MxNet framework
